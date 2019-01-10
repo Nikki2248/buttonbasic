@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">buttonbasic</string>
+    <string name="button">INCREASE</string>
+    <string name="button2">DECREASE</string>
+    <string name="button3">RESET</string>
+    <string name="counterValue">CLICK COUNTER</string>
+
+</resources>
